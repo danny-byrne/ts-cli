@@ -1,0 +1,26 @@
+{
+  "name": "cli-sandbox",
+  "version": "1.0.0",
+  "description": "A TypeScript Sandbox for writing CLI commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danny-byrne/ts-cli.git"
+  },
+  "author": "Danny Byrne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danny-byrne/ts-cli/issues"
+  },
+  "homepage": "https://github.com/danny-byrne/ts-cli#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "commander": "^5.0.0",
+    "figlet": "^1.3.0"
+  },
+  "devDependencies": {}
+}
